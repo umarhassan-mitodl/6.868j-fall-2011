@@ -1,0 +1,37 @@
+leftnav:
+- identifier: 3ca7c2b3-3f3b-126d-f494-fb81fad2ca8b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1c51375e-f9e2-7bcb-bb96-56b3151cc837
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 4d182964-96d8-6a26-f8f1-e97fd030b967
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: 45852f70-03f0-36b8-b3d7-c0e5465b48c0
+  name: Video Lectures
+  pageRef: /video_galleries/video-lectures
+  weight: 40
+- identifier: e43ad7aa-9a02-706e-d917-8263163c9193
+  name: Homework 1
+  pageRef: /pages/assignments/homework-1
+  parent: 4d182964-96d8-6a26-f8f1-e97fd030b967
+  weight: 10
+- identifier: 50ec747c-b4d2-5240-f690-ee42c2cc5dda
+  name: Homework 2
+  pageRef: /pages/assignments/homework-2
+  parent: 4d182964-96d8-6a26-f8f1-e97fd030b967
+  weight: 20
+- identifier: b9b30550-fa5b-1e51-c0e5-3cf49d633f2f
+  name: Homework 3
+  pageRef: /pages/assignments/homework-3
+  parent: 4d182964-96d8-6a26-f8f1-e97fd030b967
+  weight: 30
+- identifier: 21284ffb-4089-530a-be3b-2495efa9ffa3
+  name: Final Project
+  pageRef: /pages/assignments/final-project
+  parent: 4d182964-96d8-6a26-f8f1-e97fd030b967
+  weight: 40
