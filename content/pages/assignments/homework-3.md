@@ -19,7 +19,7 @@ When knowledge is shared among members of a community, it is called **commonsens
 
 The goal of this assignment is to get you thinking about knowledge: how it can be used, represented, and organized within a resourceful commonsense reasoning architecture. Good answers will show ingenuity and comprehension of a detailed problem solving architecture.
 
-Take a look at the ﬁrst 500 entries in the {{% resource_link "adaae210-0c40-4fce-a96a-ee9e42410b1a" "OpenMind" %}} project and **pick three assertions** from the corpus. These statements all depend on other hidden common sense assumptions that you should try to unpack. For each, answer the following questions:
+Take a look at the ﬁrst 500 entries in the [OpenMind](https://www.media.mit.edu/projects/open-mind-commons/overview/) project and **pick three assertions** from the corpus. These statements all depend on other hidden common sense assumptions that you should try to unpack. For each, answer the following questions:
 
 1. What are some problems/goals that this assertion would be useful for solving?
 2. What are some problems/goals that appear, on the surface{{< sup "3" >}}, to be related to the knowledge but are not?
@@ -41,10 +41,10 @@ Take a look at the ﬁrst 500 entries in the {{% resource_link "adaae210-0c40-4f
 
 {{< sup "1" >}}If the description is too vague/ambiguous, it may match too many items; however, if it is too speciﬁc or precise, it may never match anything!
 
-{{< sup "2" >}}See: Minsky, Marvin. "{{% resource_link "4716a785-f188-4b22-88ee-f17196ed7b62" "Negative Expertise" %}}." *International Journal of Expert Systems* 7 no. 1 (1994): 13-19.
+{{< sup "2" >}}See: Minsky, Marvin. "[Negative Expertise](http://web.media.mit.edu/~minsky/papers/NegExp.mss.txt)." *International Journal of Expert Systems* 7 no. 1 (1994): 13-19.
 
 {{< sup "3" >}}For example, they share some of the same objects, properties or relations.
 
-{{< sup "4" >}}If you don't understand these terms, see: Sowa, John. {{% resource_link "1ae0d7ec-046c-4239-ab4f-1b2501f614fd" "\"The Challenge of Knowledge Soup\" (PDF)" %}}. *jfsowa.com*. Explain any additional missing background knowledge that was relevant to your inference.
+{{< sup "4" >}}If you don't understand these terms, see: Sowa, John. ["The Challenge of Knowledge Soup" (PDF)](http://www.jfsowa.com/pubs/challenge.pdf). *jfsowa.com*. Explain any additional missing background knowledge that was relevant to your inference.
 
 {{% resource_link "4d182964-96d8-6a26-f8f1-e97fd030b967" "« Back to assignments" %}}

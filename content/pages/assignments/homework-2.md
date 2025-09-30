@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains the second homework assignment of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -21,6 +23,6 @@ uid: 50ec747c-b4d2-5240-f690-ee42c2cc5dda
 
 **Problem 5.** Give three examples situations where you could use _emotional exploitation_.
 
-{{< sup "1" >}}Also see: Minsky, Marvin. "{{% resource_link "b455c933-56f6-4fe3-86a5-a12ed58269f9" "Jokes and Their Relation to the Cognitive Unconscious" %}}." _AI Memo_ no. 603. November, 1980.
+{{< sup "1" >}}Also see: Minsky, Marvin. "[Jokes and Their Relation to the Cognitive Unconscious](http://web.media.mit.edu/~minsky/papers/jokes.cognitive.txt)." _AI Memo_ no. 603. November, 1980.
 
 {{% resource_link 4d182964-96d8-6a26-f8f1-e97fd030b967 "« Back to assignments" %}}
