@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides an overview of the course and information
   on meeting times, expectations, and the schedule of lecture topics, question and
   answer sessions, and assignment due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -21,7 +19,7 @@ About This Course
 
 The subject of this course is to discuss theories about how minds work. We will emphasize aspects of thinking that are so poorly understood that they are still considered to be more philosophical than scientific. Our goal is to replace ill-defined folk theories of 'consciousness', 'self' and 'emotion' with more concrete computational concepts.
 
-This course centers around two books, _Society of Mind_ and _The Emotion Machine_. The full text of _The Emotion Machine_ is also available on [Prof. Minsky's homepage](http://web.media.mit.edu/~minsky/). There are no course prerequisites for 6.868. However, you are expected to have read _Society of Mind_ in advance.
+This course centers around two books, _Society of Mind_ and _The Emotion Machine_. The full text of _The Emotion Machine_ is also available on {{% resource_link "20b9f4ab-f1a1-4587-8527-8b42c61c08b2" "Prof. Minsky's homepage" %}}. There are no course prerequisites for 6.868. However, you are expected to have read _Society of Mind_ in advance.
 
 Expectations (Yours and Ours)
 -----------------------------

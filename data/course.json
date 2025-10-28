@@ -27,7 +27,6 @@
     "website": "6-868j-the-society-of-mind-fall-2011"
   },
   "course_title": "The Society of Mind",
-  "hide_download": true,
   "course_description": "This course is an introduction to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.\n",
   "department_numbers": [
     "6"
@@ -38,7 +37,6 @@
     "content": "98ca370e-f42a-11d7-1d0d-a18cb8091789",
     "website": "6-868j-the-society-of-mind-fall-2011"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Written Assignments"
