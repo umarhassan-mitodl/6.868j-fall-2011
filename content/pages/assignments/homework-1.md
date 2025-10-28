@@ -23,6 +23,6 @@ uid: e43ad7aa-9a02-706e-d917-8263163c9193
 
 **Extra Credit.** Implement Zato coding and evaluate its performance on some dataset (ideally, but not necessarily "real data" of some variety) against any other scheme(s) using any well-deﬁned metrics (e.g. throughput, error rate, capacity), explaining why these metrics are appropriate. What did you learn from this experiment?
 
-{{< sup "1" >}}As an example, see Anderson, Michael L. [Neural Reuse: A Fundamental Organizational Principal for the Brain. (PDF)](https://pubmed.ncbi.nlm.nih.gov/20964882/) _Brain and Behavioral Sciences_ 33 (2010): pp. 245-313.
+{{< sup "1" >}}As an example, see Anderson, Michael L. {{% resource_link "8b877bde-47c8-4faf-a71c-38c1b701fed1" "Neural Reuse: A Fundamental Organizational Principal for the Brain. (PDF)" %}} _Brain and Behavioral Sciences_ 33 (2010): pp. 245-313.
 
 {{% resource_link 4d182964-96d8-6a26-f8f1-e97fd030b967 "« Back to assignments" %}}
